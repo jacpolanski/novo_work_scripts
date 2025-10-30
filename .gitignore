@@ -26,3 +26,4 @@ Thumbs.db
 # Config backups (may contain sensitive data)
 *.conf.bak
 *.conf.old
+config/*.local
